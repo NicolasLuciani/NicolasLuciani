@@ -37,9 +37,20 @@ Atualmente curso o ensino médio no **SESI-SP** e o técnico em desenvolvimento 
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolasluciani&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolasluciani&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_title=true" alt="GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasluciani&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasluciani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolasluciani&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
 ---
 
 ## 📱 Contato
