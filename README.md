@@ -1,5 +1,9 @@
+<h1 align="center">👋 Olá! Eu sou o Nicolas Luciani</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&width=600&lines=👋+Olá%2C+eu+sou+o+Nicolas+Luciani!;🎓+SESI+-+CE409+%7C+SENAI+-+502+SP;💻+Apaixonado+por+tecnologia+e+desenvolvimento;🚀+Sempre+em+busca+de+evolução!" alt="Typing SVG" />
+🎓 Estudante no <strong>SESI - CE409</strong> e <strong>SENAI - 502 SP</strong> <br>
+💻 Apaixonado por tecnologia, desenvolvimento e inovação <br>
+🚀 Em constante aprendizado!
 </p>
 
 ---
