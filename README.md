@@ -1,10 +1,3 @@
-<h1 align="center">👋 Olá! Eu sou o Nicolas Luciani</h1>
-
-<p align="center">
-🎓 Estudante no <strong>SESI - CE409</strong> e <strong>SENAI - 502 SP</strong> <br>
-💻 Apaixonado por tecnologia, desenvolvimento e inovação <br>
-🚀 Em constante aprendizado!
-</p>
 
 ---
 
