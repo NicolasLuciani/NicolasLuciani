@@ -1,35 +1,53 @@
-### Olá, eu sou o Nicolas Luciani! Seja bem vindo ao meu perfil do GitHub
+<h1 align="center">👋 Olá! Eu sou o Nicolas Luciani</h1>
 
-# 👋 Olá, eu sou o Nicolas Luciani!
+<p align="center">
+🎓 Estudante no <strong>SESI - CE409</strong> e <strong>SENAI - 502 SP</strong> <br>
+💻 Apaixonado por tecnologia, desenvolvimento e inovação <br>
+🚀 Em constante aprendizado!
+</p>
 
-🎓 Estudante | 💻 Desenvolvedor em formação | 🚀 Entusiasta de tecnologia
+---
 
-Sou apaixonado por tecnologia e programação, sempre buscando aprender mais e compartilhar conhecimento. Aqui você encontrará alguns dos meus projetos, estudos e contribuições open source.
+## 🧠 Sobre mim
 
-## 💼 Atualmente estou trabalhando em:
-- Aprendizado contínuo de **[linguagem/tecnologia que estiver estudando]**
-- Projetos pessoais em **[framework ou linguagem preferida]**
-- Contribuições para repositórios open source
+Atualmente curso o ensino médio no **SESI-SP** e o técnico em desenvolvimento de sistemas no **SENAI-SP**. Sou curioso, determinado e gosto de resolver problemas com código. Busco evoluir a cada projeto e colaborar com ideias que impactem positivamente a vida das pessoas.
+
+---
+
+## 💼 Estou aprendendo / trabalhando com:
+- Desenvolvimento web (HTML, CSS, JavaScript)
+- Lógica de programação e algoritmos
+- Git e GitHub para versionamento
+- Projetos técnicos do curso SENAI
+
+---
 
 ## 🛠️ Tecnologias e ferramentas:
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
-> *Adicione mais badges de tecnologias que você usa ou estuda!*
+> *Mais tecnologias em breve... estou sempre aprendendo!*
+
+---
 
 ## 📈 Estatísticas do GitHub
-![Nicolas Luciani's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasluciani&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolasluciani&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
 ---
 
-## 📫 Como me encontrar:
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
-- Email: [seuemail@email.com](mailto:seuemail@email.com)
+## 📫 Vamos nos conectar!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seuusuario) *(adicione aqui se tiver)*
+- 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
 
 ---
 
-📝 *Este perfil está em constante evolução, assim como eu. Obrigado por visitar!*
-
+<p align="center">✨ Obrigado por visitar meu perfil. Sinta-se à vontade para explorar meus projetos e me chamar para trocar ideias!</p>
