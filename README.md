@@ -6,10 +6,6 @@
 🚀 Em constante aprendizado!
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&width=600&lines=👋+Olá!+Eu+sou+o+Nicolas+Luciani!;🎓+Estudante+no+SESI+-+CE409+%7C+SENAI+-+502+SP;💻+Apaixonado+por+tecnologia,+desenvolvimento+e+inovação;🚀+Em+constante+aprendizado!" alt="Typing SVG" />
-</p>
-<p align="center">
 
 ## 🧠 Sobre mim
 
