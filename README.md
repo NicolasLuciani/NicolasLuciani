@@ -35,7 +35,6 @@ Atualmente curso o ensino médio no **SESI-SP** e o técnico em desenvolvimento 
 ---
 
 ## 📈 Estatísticas do GitHub
-## 📈 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolasluciani&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_title=true&width=400" alt="GitHub stats" />
