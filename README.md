@@ -8,25 +8,25 @@
 
 ---
 
-## 🧠 Sobre mim
+<h1 align="center" 🧠 Sobre mim></h1>
 
-- 🎓 Ensino Médio no **SESI-SP**  
-- 💻 Técnico em **Desenvolvimento de Sistemas** no **SENAI-SP**  
-- 🔍 Curioso, determinado e apaixonado por resolver problemas com código  
-- 🌍 Busco evoluir em cada projeto e contribuir com ideias que gerem impacto positivo  
+##- 🎓 Ensino Médio no **SESI-SP**  
+##- 💻 Técnico em **Desenvolvimento de Sistemas** no **SENAI-SP**  
+##- 🔍 Curioso, determinado e apaixonado por resolver problemas com código  
+##- 🌍 Busco evoluir em cada projeto e contribuir com ideias que gerem impacto positivo  
 
 ---
 
-## 💼 Atualmente aprendendo e trabalhando com:
+<h1 align="center" 💼 Atualmente aprendendo e trabalhando com:></h1>
 
-- 🌐 **Desenvolvimento Web:**  
-  - HTML  
-  - CSS  
-  - JavaScript  
+##- 🌐 **Desenvolvimento Web:**  
+ ## - HTML  
+##  - CSS  
+##  - JavaScript  
 
-- 🐍 **Back-End:** Python  
-- 🔧 **Ferramentas:** Git e GitHub  
-- 📚 Projetos práticos do curso SENAI  
+##- 🐍 **Back-End:** Python  
+##- 🔧 **Ferramentas:** Git e GitHub  
+##- 📚 Projetos práticos do curso SENAI  
 
 ---
 
