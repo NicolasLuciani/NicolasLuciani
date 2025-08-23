@@ -5,7 +5,7 @@
 💻 Apaixonado por tecnologia, desenvolvimento e inovação <br>
 🚀 Em constante aprendizado!
 </p>
-
+<br>
 
 <h1 align="center">🧠 Sobre mim</h1>
 
