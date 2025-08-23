@@ -7,9 +7,9 @@
 </p>
 
 
-<h1 align="center">🧠 Sobre mim
+<h1 align="center">🧠 Sobre mim</h1>
 
-Atualmente curso o ensino médio no **SESI-SP** e o técnico em desenvolvimento de sistemas no **SENAI-SP**. Sou curioso, determinado e gosto de resolver problemas com código. Busco evoluir a cada projeto e colaborar com ideias que impactem positivamente a vida das pessoas.
+### Atualmente curso o ensino médio no **SESI-SP** e o técnico em desenvolvimento de sistemas no **SENAI-SP**. Sou curioso, determinado e gosto de resolver problemas com código. Busco evoluir a cada projeto e colaborar com ideias que impactem positivamente a vida das pessoas.
 
 ---
 
