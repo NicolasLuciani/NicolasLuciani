@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="center" 🧠 Sobre mim></h1>
+<h1 align="center"> 🧠 Sobre mim</h1>
 
 ##- 🎓 Ensino Médio no **SESI-SP**  
 ##- 💻 Técnico em **Desenvolvimento de Sistemas** no **SENAI-SP**  
@@ -17,7 +17,7 @@
 
 ---
 
-<h1 align="center" 💼 Atualmente aprendendo e trabalhando com:></h1>
+<h1 align="center"> 💼 Atualmente aprendendo e trabalhando com:</h1>
 
 ##- 🌐 **Desenvolvimento Web:**  
  ## - HTML  
