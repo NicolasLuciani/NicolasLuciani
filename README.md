@@ -20,12 +20,12 @@
 <h1 align="center"> 💼 Atualmente aprendendo e trabalhando com:</h1>
 
 ## - 🌐 **Desenvolvimento Web:**  
-### - HTML  
-###  - CSS  
-###  - JavaScript  
-###- 🐍 **Back-End:** Python  
-###- 🔧 **Ferramentas:** Git e GitHub  
-###- 📚 Projetos práticos do curso SENAI  
+###    - HTML  
+###    - CSS  
+###    - JavaScript  
+###    - 🐍 **Back-End:** Python  
+###    - 🔧 **Ferramentas:** Git e GitHub  
+###    - 📚 Projetos práticos do curso SENAI  
 
 ---
 
