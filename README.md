@@ -14,7 +14,11 @@ Atualmente curso o ensino médio no **SESI-SP** e o técnico em desenvolvimento 
 ---
 
 ## 💼 Estou aprendendo / trabalhando com:
-- Desenvolvimento web (HTML, CSS, JavaScript)
+- Desenvolvimento web:
+        - HTML
+        - CSS
+        - JavaScript
+  
 - 🐍 Back-End em Python
 - Git e GitHub para versionamento
 - Projetos técnicos do curso SENAI
