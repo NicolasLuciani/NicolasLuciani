@@ -47,8 +47,7 @@ Atualmente curso o ensino médio no **SESI-SP** e o técnico em desenvolvimento 
 
 - 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5519982569088)
 - 📸 Instagram: [@Nicolas_Lucianii](https://instagram.com/Nicolas_Lucianii)
-- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario) *(adicione se tiver)*
-- 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
+- 📧 Email: [nicolasluciani1603@gmail.com](nicolasluciani1603@gmail.com)
 
 ---
 
