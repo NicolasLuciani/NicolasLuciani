@@ -39,6 +39,8 @@ Atualmente curso o ensino médio no **SESI-SP** e o técnico em desenvolvimento 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolasluciani&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_title=true&width=400" alt="GitHub stats" />
+
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasluciani&layout=compact&langs_count=6&theme=tokyonight&width=400" alt="Top Langs" />
 </p>
 
