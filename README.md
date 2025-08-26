@@ -10,10 +10,10 @@
 
 <h1 align="center"> 🧠 Sobre mim</h1>
 
-##- 🎓 Ensino Médio no **SESI-SP**  
-##- 💻 Técnico em **Desenvolvimento de Sistemas** no **SENAI-SP**  
-##- 🔍 Curioso, determinado e apaixonado por resolver problemas com código  
-##- 🌍 Busco evoluir em cada projeto e contribuir com ideias que gerem impacto positivo  
+## - 🎓 Ensino Médio no **SESI-SP**  
+## - 💻 Técnico em **Desenvolvimento de Sistemas** no **SENAI-SP**  
+## - 🔍 Curioso, determinado e apaixonado por resolver problemas com código  
+## - 🌍 Busco evoluir em cada projeto e contribuir com ideias que gerem impacto positivo  
 
 ---
 
