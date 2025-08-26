@@ -62,4 +62,3 @@
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil! Explore meus projetos e bora trocar ideias 🚀</p>
