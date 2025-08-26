@@ -1,9 +1,12 @@
 <h1 align="center">👋 Olá, eu sou o Nicolas Luciani</h1>
 
+---
+
+## 📈 Estatísticas do GitHub
+
 <p align="center">
- 🎓 Estudante no <strong>SESI-SP</strong> e <strong>SENAI-SP</strong> <br>
- 💻 Apaixonado por tecnologia, desenvolvimento e inovação <br>
- 🚀 Sempre em constante aprendizado!
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nicolasluciani&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasluciani&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
 
 ---
@@ -39,15 +42,6 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nicolasluciani&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasluciani&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
 
 ---
