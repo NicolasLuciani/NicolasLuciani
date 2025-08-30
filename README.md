@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Nicolas Luciani</h1>
+# 👋 Olá, eu sou o Nicolas Luciani
 
 ---
 
@@ -9,26 +9,35 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasluciani&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
 
----
-
-<h1 align="center"> 🧠 Sobre mim</h1>
-
-#### - 🎓 Ensino Médio no **SESI-SP**  
-#### - 💻 Técnico em **Desenvolvimento de Sistemas** no **SENAI-SP**  
-#### - 🔍 Curioso, determinado e apaixonado por resolver problemas com código  
-#### - 🌍 Busco evoluir em cada projeto e contribuir com ideias que gerem impacto positivo  
+<p align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicolasluciani&theme=tokyonight)
+</p>
 
 ---
 
-<h1 align="center"> 💼 Atualmente aprendendo e trabalhando com:</h1>
+## 🧠 Sobre mim
 
-## - 🌐 **Desenvolvimento Web:**  
-####    - HTML  
-####    - CSS  
-####    - JavaScript  
-####    - 🐍 **Back-End:** Python  
-####    - 🔧 **Ferramentas:** Git e GitHub  
-####    - 📚 Projetos práticos do curso SENAI  
+- 🎓 Ensino Médio no **SESI-SP**  
+- 💻 Técnico em **Desenvolvimento de Sistemas** no **SENAI-SP**  
+- 🔍 Curioso e determinado, resolvo problemas com código e busco sempre criar soluções que impactem positivamente  
+- 🌍 Busco evoluir em cada projeto e contribuir com ideias inovadoras  
+
+---
+
+## 💼 Atualmente aprendendo e trabalhando com
+
+### 🌐 Desenvolvimento Web
+- HTML  
+- CSS  
+- JavaScript  
+
+### 🐍 Back-End
+- Python  
+
+### 🔧 Ferramentas
+- Git & GitHub  
+- VS Code  
+- Projetos práticos do curso SENAI  
 
 ---
 
@@ -46,13 +55,19 @@
 
 ---
 
+## 🚀 Projetos em Destaque
+
+- [Projeto 1](#) - Pequena descrição do projeto  
+- [Projeto 2](#) - Pequena descrição do projeto  
+*(adicione links reais dos seus projetos)*
+
+---
+
 ## 📱 Contato
 
 <p align="center">
   <a href="https://wa.me/5519982569088"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://instagram.com/Nicolas_Lucianii"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:nicolasluciani1603@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nicolasluciani"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
----
-
