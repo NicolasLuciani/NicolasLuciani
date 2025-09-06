@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Nicolas Luciani
+![Olá, meu nome é Nicolas Luciani](assets/olá-nicolas.gif) ![💻](https://img.shields.io/badge/Estudante-SENAI-blue)
 
 ---
 
