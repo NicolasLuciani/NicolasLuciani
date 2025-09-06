@@ -1,5 +1,13 @@
-![Olá, meu nome é Nicolas Luciani](assets/olá-nicolas.gif) ![💻](https://img.shields.io/badge/Estudante-SENAI-blue)
+<!-- Centralizando tudo -->
+<div align="center">
 
+  <!-- GIF de digitação simulando efeito CSS -->
+  <img src="https://i.imgur.com/5q7WcVt.gif" alt="Olá, meu nome é Nicolas Luciani" />
+
+  <!-- Pequena descrição ou badge -->
+  <h3 style="color:#FF69B4;">Estudante de Desenvolvimento de Sistemas no SENAI</h3>
+
+</div>
 ---
 
 ## 📈 Estatísticas do GitHub
