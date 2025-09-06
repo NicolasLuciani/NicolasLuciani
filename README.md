@@ -1,8 +1,6 @@
 <!-- Centralizando tudo -->
 <div align="center">
 
-  <!-- GIF de digitação simulando efeito CSS -->
-  <img src="[https://i.imgur.com/5q7WcVt.gif" alt="Olá, meu nome é Nicolas Luciani](https://sdmntpreastus2.oaiusercontent.com/files/00000000-59c8-61f6-9806-77c7300687f1/raw?se=2025-09-06T18%3A51%3A41Z&sp=r&sv=2024-08-04&sr=b&scid=6e5ed461-5f90-55a8-a750-cb5adce17ce9&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-06T10%3A34%3A38Z&ske=2025-09-07T10%3A34%3A38Z&sks=b&skv=2024-08-04&sig=eYJ7cEVwiKDe0WNCrUUC2F0O/9c1g%2BulIMjGTZvhP%2B4%3D)" />
 
   <!-- Pequena descrição ou badge -->
   <h3 style="color:#FF69B4;">Estudante de Desenvolvimento de Sistemas no SENAI</h3>
