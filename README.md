@@ -3,7 +3,7 @@
 
 
   <!-- Pequena descrição ou badge -->
-  <h3 style="color:#FF69B4;">Estudante de Desenvolvimento de Sistemas no SENAI</h3>
+  <h3 style="color:#FF69B4;">Nicolas Luciani</h3>
 
 </div>
 ---
