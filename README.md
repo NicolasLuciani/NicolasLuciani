@@ -1,4 +1,4 @@
-
+![Snake animation](https://raw.githubusercontent.com/NicolasLuciani/NicolasLuciani/output/snake.svg)
   <h3 style="color:#FF69B4;">Nicolas Luciani</h3>
 ---
 
