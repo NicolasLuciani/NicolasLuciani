@@ -1,3 +1,13 @@
+
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=nicolasluciani&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasluciani&layout=compact&langs_count=6&theme=tokyonight" />
+</p>
+---
+###
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -10,18 +20,9 @@
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    width="800"
   />
 </picture>
-
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=nicolasluciani&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasluciani&layout=compact&langs_count=6&theme=tokyonight" />
-</p>
----
-###
-
 ## 🧠 Sobre mim
 
 - 🎓 Ensino Médio no **SESI-SP**  
