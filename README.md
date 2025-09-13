@@ -3,7 +3,10 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
+  <!-- Card de estatísticas principais -->
   <img width="51%" src="https://github-readme-stats.vercel.app/api?username=nicolasluciani&show_icons=true&theme=synthwave&count_private=true&hide_title=true" />
+  
+  <!-- Card de linguagens -->
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasluciani&layout=compact&langs_count=6&theme=radical" />
 </p>
 
