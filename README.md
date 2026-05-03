@@ -33,7 +33,8 @@
 - JavaScript  
 
 ### 🐍 Back-End
-- Python  
+- Python
+- Dart 
 
 ### 🔧 Ferramentas
 - Git & GitHub  
